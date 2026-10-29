@@ -175,6 +175,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [adamsreview](./plugins/adamsreview)
 - [slicewise](./plugins/slicewise)
 - [bullpen](./plugins/bullpen)
+- [ponder](https://github.com/Quinnod345/ponder) - Multi-pass code review and architecture deliberation skill (`bin/ponder`) with a deterministic 1.00 coverage gate, 4-voice delta operations (Skeptic, Builder, Dreamer, Empath), and epistemic silence convergence.
 
 ### Communication & Integrations
 - [whatsapp-claude-plugin](https://github.com/Rich627/whatsapp-claude-plugin) — WhatsApp channel plugin for Claude Code. Connects as a linked device via Baileys v7 with bidirectional messaging, full media support, voice transcription, permission relay, and access control.
