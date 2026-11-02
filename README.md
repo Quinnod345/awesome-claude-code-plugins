@@ -175,6 +175,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [adamsreview](./plugins/adamsreview)
 - [slicewise](./plugins/slicewise)
 - [bullpen](./plugins/bullpen)
+- [ponder](https://github.com/Quinnod345/ponder) - Convergent deliberation loop and coverage gate for AI coding agents that measures review convergence across four perspectives (skeptic, builder, dreamer, empath) and refuses to stop until every unit is audited.
 
 ### Communication & Integrations
 - [whatsapp-claude-plugin](https://github.com/Rich627/whatsapp-claude-plugin) — WhatsApp channel plugin for Claude Code. Connects as a linked device via Baileys v7 with bidirectional messaging, full media support, voice transcription, permission relay, and access control.
@@ -425,6 +426,7 @@ Example:
 
 - [AgentStore](https://github.com/techgangboss/agentstore) - Open-source plugin marketplace with gasless USDC payments. Install via `/plugin marketplace add techgangboss/agentstore`. Publishers earn 80% of sales. Agent-first API for zero-auth publishing.
 - [protonium](https://github.com/protonium-labs/protonium-marketplace) — AI agents and productivity tools. Includes **AxiomCore**, a project & routine management agent: enforced structure (numbered folders, task IDs, wiki memory), plan → approve → execute workflow, agile or WBS project creation.
+- [ponder](https://github.com/Quinnod345/ponder) - Deliberation loop and review ledger plugin marketplace. Install via `claude plugin marketplace add Quinnod345/ponder` and `claude plugin install ponder@Quinnod345`.
 
 ## Contributing
 

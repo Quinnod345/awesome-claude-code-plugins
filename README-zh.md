@@ -116,6 +116,7 @@
 - [test-writer-fixer](./plugins/test-writer-fixer)
 - [unit-test-generator](./plugins/unit-test-generator)
 - [sonmat](https://github.com/jun0-ds/sonmat) — 验证纪律插件，六个反应轴（guard、inspect、witness、punch、devil's advocate、scribe）用于AI-人类协作。
+- [ponder](https://github.com/Quinnod345/ponder) - 针对 AI 编程代理的多轮代码审查和架构审议工具，具备确定性的 1.00 覆盖率门禁、4 视角增量操作（Skeptic、Builder、Dreamer、Empath）和认知收敛特性。
 
 ### 数据分析
 - [analytics-reporter](./plugins/analytics-reporter)
